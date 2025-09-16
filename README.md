@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Joaco. I'm 19 years old.
+# 👋 Hi, I'm Joaco and I'm 19 years old.
 
 💻 I'm a System Analyst student and Fullstack Developer from Argentina.  
 ⚡ Passionate about building web applications and always learning something new.  
