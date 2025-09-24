@@ -15,6 +15,7 @@
 
 ## 📬 Contact  
 
-- 📧 Email: **joaqantonino@gmail.com**                                     - 💼 LinkedIn: [Joaquín Antonino](https://www.linkedin.com/in/joaqu%C3%ADn-antonino-5b836037a/)  
+- 📧 Email: **joaqantonino@gmail.com**
+- 💼 LinkedIn: [Joaquín Antonino](https://www.linkedin.com/in/joaqu%C3%ADn-antonino-5b836037a/)  
 
 ---
